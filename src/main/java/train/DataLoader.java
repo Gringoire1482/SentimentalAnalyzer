@@ -5,13 +5,17 @@ import java.io.FileNotFoundException;
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
+import java.util.logging.Logger;
 
 
 public class DataLoader {
+    private static final Logger LOGGER = Logger.getLogger(DataLoader.class.getName());
     private static Set<Tweet> tweetSet;
     private static long idCounter = 0;
     private File fileNegative = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\demonegatile.txt");
     private File filePositive = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\demopositive.txt");
+
+    private File stopFile = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\stopwords.txt");
 
     public Set<Tweet> create() {
         tweetSet = new HashSet<>();
@@ -45,5 +49,22 @@ public class DataLoader {
             System.out.println("========================");
         }
         return result;
+    }
+
+    public Set<String> loadStopWordsList() {
+        Set<String> stopWords = new HashSet<>();
+        Scanner scanner = null;
+        try {
+            scanner = new Scanner(stopFile, "utf-8");
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        while (scanner.hasNextLine()) {
+            stopWords.add(scanner.nextLine());
+        }
+        for (String string : stopWords) {
+            System.out.println(string);
+        }
+        return stopWords;
     }
 }
