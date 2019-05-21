@@ -21,14 +21,14 @@ public class TexterraCient {
 
     public Set<Tweet> lemmatize(Set<Tweet> tweetSet, BatchSize batchSize) {
         Set<Tweet> lemmatizedSet = new LinkedHashSet<>();
-        int partitionCount = tweetSet.size() / batchSize.size + 1;
-        List<Set<Tweet>> sets = new ArrayList<>(partitionCount);
+        int partitionCount = tweetSet.size() / batchSize.value;
+        List<Set<Tweet>> sets = new LinkedList<>();
         for (int i = 0; i < partitionCount; i++) {
-            sets.add(new HashSet<Tweet>());
+            sets.add(new LinkedHashSet<Tweet>());
         }
         int index = 0;
         for (Tweet tweet : tweetSet) {
-            sets.get(index++ / partitionCount).add(tweet);
+            sets.get(index++ / batchSize.value).add(tweet);
 
         }
         for (Set<Tweet> tweetSets : sets) {
@@ -58,7 +58,7 @@ public class TexterraCient {
             JSONArray lemma = responseArray.getJSONObject(i).getJSONObject("annotations").getJSONArray("lemma");
             StringBuilder stringBuilder = new StringBuilder();
             for (int j = 0; j < lemma.length(); j++) {
-                stringBuilder.append(lemma.getJSONObject(j).getString("value"));
+                stringBuilder.append(lemma.getJSONObject(j).getString("value")).append(" ");
             }
             tweetIterator.next().setTokenized(stringBuilder.toString());
 

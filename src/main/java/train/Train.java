@@ -15,7 +15,7 @@ public class Train {
         data.forEach(a -> preprocess(a.getContent()));
     }
 
-    private static void preprocess(String content) {
+    private static String preprocess(String content) {
         String[] array = content.split(" ");
         StringBuilder stringBuilder = new StringBuilder();
         for (String stringContent : array) {
@@ -23,9 +23,8 @@ public class Train {
                 stringBuilder.append(stringContent).append(" ");
             }
 
-
         }
-
+        return stringBuilder.toString();
 
     }
 
