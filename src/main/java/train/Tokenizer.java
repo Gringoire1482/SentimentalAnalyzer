@@ -7,12 +7,54 @@ import java.util.logging.Logger;
 
 public class Tokenizer {
     private static final Logger LOGGER = Logger.getLogger(Tokenizer.class.getName());
+
     public Set<Token> processTokens(Set<Token> tokenSet, Set<Tweet> tweetSet) {
-        LOGGER.log(Level.INFO,"START TOKEN PROCESSING");
+        LOGGER.log(Level.INFO, "START TOKEN PROCESSING");
         for (Token token : tokenSet) {
-            LOGGER.log(Level.INFO,"TOKEN "+token.getContent());
-            token.getBernoulliParameters().setNegativeDocumentWithToken(tweetSet.stream().filter(a -> a.getTweetType().equals(SentimentalType.NEGATIVE) && a.getTokenList().contains(token.getContent())).count());
-            token.getBernoulliParameters().setPositiveDocumentWithToken(tweetSet.stream().filter(a -> a.getTweetType().equals(SentimentalType.POSITIVE) && a.getTokenList().contains(token.getContent())).count());
+            LOGGER.log(Level.INFO, "TOKEN " + token.getContent());
+
+
+            token
+                    .getBernoulliParameters().setNegativeDocumentWithToken(
+                    tweetSet
+                            .stream()
+                            .filter(
+                                    a -> a
+                                            .getTweetType()
+                                            .equals(
+                                                    SentimentalType.NEGATIVE
+                                            )
+                                            &&
+                                            a
+                                                    .getTokenList()
+                                                    .contains(
+                                                            token.getContent()
+                                                    )
+                            )
+                            .count()
+            );
+
+
+            token
+                    .getBernoulliParameters()
+                    .setPositiveDocumentWithToken(
+                            tweetSet
+                                    .stream()
+                                    .filter(
+                                            a -> a
+                                                    .getTweetType()
+                                                    .equals(
+                                                            SentimentalType.POSITIVE
+                                                    )
+                                                    &&
+                                                    a
+                                                            .getTokenList()
+                                                            .contains(
+                                                                    token.getContent())
+                                    )
+                                    .count()
+                    );
+
 
             token
                     .getMultinominalParametrs()
@@ -24,7 +66,7 @@ public class Tokenizer {
                                                     .getTweetType()
                                                     .equals(
                                                             SentimentalType.NEGATIVE
-                                            )
+                                                    )
                                     )
                                     .mapToLong(
                                             a -> a
@@ -40,9 +82,38 @@ public class Tokenizer {
                                     )
                                     .sum()
                     );
-            token.getMultinominalParametrs().setPositiveDocumentTokensCount(tweetSet.stream().filter(a->a.getTweetType().equals(SentimentalType.POSITIVE)).mapToLong(a->a.getTokenList().stream().filter(s->s.equals(token.getContent())).count()).sum());
-            LOGGER.log(Level.INFO,"PROCESSING RESULT "+ token.getBernoulliParameters().toString()+" "+ token.getMultinominalParametrs().toString());
+
+
+            token.getMultinominalParametrs()
+                    .setPositiveDocumentTokensCount(
+                            tweetSet
+                                    .stream()
+                                    .filter(
+                                            a -> a
+                                                    .getTweetType()
+                                                    .equals(
+                                                            SentimentalType.POSITIVE
+                                                    )
+                                    )
+                                    .mapToLong(
+                                            a -> a
+                                                    .getTokenList()
+                                                    .stream()
+                                                    .filter(
+                                                            s -> s
+                                                                    .equals(
+                                                                            token.getContent()
+                                                                    )
+                                                    )
+                                                    .count()
+                                    )
+                                    .sum()
+                    );
+            LOGGER.log(Level.INFO, "PROCESSING RESULT " + token.getBernoulliParameters().toString() + " " + token.getMultinominalParametrs().toString());
+
         }
+        tokenSet.stream().filter(a->a.getBernoulliParameters().getNegativeDocumentWithToken()>0).forEach(a->a.setPresentInNegativeDocuments(true));
+        tokenSet.stream().filter(a->a.getBernoulliParameters().getPositiveDocumentWithToken()>0).forEach(a->a.setPresentInPositiveDocuments(true));
         return tokenSet;
     }
 

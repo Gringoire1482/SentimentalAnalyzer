@@ -7,8 +7,10 @@ public class Token {
     private boolean isPresentInPositiveDocuments;
     private boolean isPresentInNegativeDocuments;
 
-    private double bernoulliAposteriori;
-    private double multinominalAposteriori;
+    private double bernoulliAposterioriNegative;
+    private double bernoulliAposterioriPositive;
+    private double multinominalAposterioriNegative;
+    private double multinominalAposterioriPositive;
 
 
     @Override
@@ -64,5 +66,37 @@ public class Token {
 
     public void setMultinominalParametrs(MultinominalParametrs multinominalParametrs) {
         this.multinominalParametrs = multinominalParametrs;
+    }
+
+    public double getBernoulliAposterioriNegative() {
+        return bernoulliAposterioriNegative;
+    }
+
+    public void setBernoulliAposterioriNegative(double bernoulliAposterioriNegative) {
+        this.bernoulliAposterioriNegative = bernoulliAposterioriNegative;
+    }
+
+    public double getBernoulliAposterioriPositive() {
+        return bernoulliAposterioriPositive;
+    }
+
+    public void setBernoulliAposterioriPositive(double bernoulliAposterioriPositive) {
+        this.bernoulliAposterioriPositive = bernoulliAposterioriPositive;
+    }
+
+    public double getMultinominalAposterioriNegative() {
+        return multinominalAposterioriNegative;
+    }
+
+    public void setMultinominalAposterioriNegative(double multinominalAposterioriNegative) {
+        this.multinominalAposterioriNegative = multinominalAposterioriNegative;
+    }
+
+    public double getMultinominalAposterioriPositive() {
+        return multinominalAposterioriPositive;
+    }
+
+    public void setMultinominalAposterioriPositive(double multinominalAposterioriPositive) {
+        this.multinominalAposterioriPositive = multinominalAposterioriPositive;
     }
 }
