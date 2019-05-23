@@ -40,6 +40,11 @@ public class Tweet {
     }
 
     public void setTokenized(String tokenized) {
+        StringBuilder stringBuilder= new StringBuilder();
+        String[] tokens = tokenized.split(" ");
+        for(int i=0;i<tokens.length-1;i++ ){
+            if((tokens[i].equals("не")||tokens[i].equals("очень"))&&tokens[i+1].length())
+        }
         this.tokenized = tokenized;
     }
 

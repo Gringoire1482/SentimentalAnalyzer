@@ -64,6 +64,8 @@ public class Train {
 
         Tokenizer tokenizer= new Tokenizer();
         tokenSet= tokenizer.processTokens(tokenSet,data);
+        ModelGenerator modelGenerator= new ModelGenerator();
+        modelGenerator.buildProbabilityModelMatrix(tokenSet,data);
 
 
 
