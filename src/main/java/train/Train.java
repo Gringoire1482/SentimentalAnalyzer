@@ -47,6 +47,7 @@ public class Train {
        long before = System.currentTimeMillis();
         Set<String> tokens = new LinkedHashSet<>();
         data.stream().map(Tweet::getTokenList).forEach(tokens::addAll);
+        tokens= tokens.stream().filter(a->a.length()>2).collect(Collectors.toSet());
         System.out.println(System.currentTimeMillis()-before);
         System.out.println(tokens.size());
 

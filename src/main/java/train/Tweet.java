@@ -5,8 +5,8 @@ import java.util.List;
 
 public class Tweet {
     private long id;
-    private  String content;
-    private String  tokenized;
+    private String content;
+    private String tokenized;
     private SentimentalType tweetType;
 
     @Override
@@ -40,12 +40,17 @@ public class Tweet {
     }
 
     public void setTokenized(String tokenized) {
-        StringBuilder stringBuilder= new StringBuilder();
+        StringBuilder stringBuilder = new StringBuilder();
         String[] tokens = tokenized.split(" ");
-        for(int i=0;i<tokens.length-1;i++ ){
-            if((tokens[i].equals("не")||tokens[i].equals("очень"))&&tokens[i+1].length())
+        for (int i = 0; i < tokens.length - 1; i++) {
+            if ((tokens[i].equals("не") || tokens[i].equals("очень")) && tokens[i + 1].length() > 3) {
+                stringBuilder.append(tokens[i]).append("_").append(tokens[++i]);
+            } else {
+                stringBuilder.append(tokens[i]);
+            }
+
         }
-        this.tokenized = tokenized;
+        this.tokenized = stringBuilder.toString();
     }
 
     public SentimentalType getTweetType() {
@@ -56,7 +61,7 @@ public class Tweet {
         this.tweetType = tweetType;
     }
 
-    public List<String>  getTokenList(){
+    public List<String> getTokenList() {
         return Arrays.asList(tokenized.split(" "));
     }
 }
