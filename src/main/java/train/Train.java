@@ -38,6 +38,7 @@ public class Train {
         for (Tweet tweet: data){
             System.out.println(tweet);
         }
+
 //        long before = System.currentTimeMillis();
 //       String s = data.stream().map(Tweet::getContent).collect(Collectors.joining(" "));
 //        Set<String> soset =  new LinkedHashSet<>(Arrays.asList(s.split(" ")));
@@ -47,7 +48,7 @@ public class Train {
        long before = System.currentTimeMillis();
         Set<String> tokens = new LinkedHashSet<>();
         data.stream().map(Tweet::getTokenList).forEach(tokens::addAll);
-        tokens= tokens.stream().filter(a->a.length()>2).collect(Collectors.toSet());
+        tokens= tokens.stream().filter(a->a.trim().length()>2&&!a.isEmpty()&&!a.contains(" ")).collect(Collectors.toSet());
         System.out.println(System.currentTimeMillis()-before);
         System.out.println(tokens.size());
 
@@ -76,7 +77,7 @@ public class Train {
 
         LOGGER.log(Level.INFO,"start preprocessing  of " + tweet.getContent() );
         String content = tweet.getContent();
-        content= content.replaceAll("(;\")|(\";)","");
+        content= content.replaceAll("(;\")|(\";)","");//.replaceAll("ё","е").replaceAll("й","и");
         String[] array = content.split(" ");
         StringBuilder stringBuilder = new StringBuilder();
         for (String stringContent : array) {

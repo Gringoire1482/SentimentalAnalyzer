@@ -41,12 +41,13 @@ public class Tweet {
 
     public void setTokenized(String tokenized) {
         StringBuilder stringBuilder = new StringBuilder();
+        tokenized=tokenized.replaceAll("ё","е").replaceAll("й","и");
         String[] tokens = tokenized.split(" ");
         for (int i = 0; i < tokens.length - 1; i++) {
             if ((tokens[i].equals("не") || tokens[i].equals("очень")) && tokens[i + 1].length() > 3) {
-                stringBuilder.append(tokens[i]).append("_").append(tokens[++i]);
+                stringBuilder.append(tokens[i]).append("_").append(tokens[++i]).append(" ");
             } else {
-                stringBuilder.append(tokens[i]);
+                stringBuilder.append(tokens[i]).append(" ");
             }
 
         }

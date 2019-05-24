@@ -14,8 +14,8 @@ public class DataLoader {
     private static final Logger LOGGER = Logger.getLogger(DataLoader.class.getName());
     private static Set<Tweet> tweetSet;
     private static long idCounter = 0;
-    private File fileNegative = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\demonegative1.csv");
-    private File filePositive = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\demopositive.csv");
+    private File fileNegative = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\negative-1000first.csv");
+    private File filePositive = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\positive-1000first.csv");
 
     private File stopFile = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\stopwords.txt");
 

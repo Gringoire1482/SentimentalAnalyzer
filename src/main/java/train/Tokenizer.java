@@ -112,8 +112,8 @@ public class Tokenizer {
             LOGGER.log(Level.INFO, "PROCESSING RESULT " + token.getBernoulliParameters().toString() + " " + token.getMultinominalParametrs().toString());
 
         }
-        tokenSet.stream().filter(a->a.getBernoulliParameters().getNegativeDocumentWithToken()>0).forEach(a->a.setPresentInNegativeDocuments(true));
-        tokenSet.stream().filter(a->a.getBernoulliParameters().getPositiveDocumentWithToken()>0).forEach(a->a.setPresentInPositiveDocuments(true));
+       // tokenSet.stream().filter(a->a.getBernoulliParameters().getNegativeDocumentWithToken()>0).forEach(a->a.setPresentInNegativeDocuments(true));
+       // tokenSet.stream().filter(a->a.getBernoulliParameters().getPositiveDocumentWithToken()>0).forEach(a->a.setPresentInPositiveDocuments(true));
         return tokenSet;
     }
 

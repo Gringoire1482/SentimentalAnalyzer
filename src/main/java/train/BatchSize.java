@@ -1,7 +1,7 @@
 package train;
 
 public enum BatchSize {
-    TRAINING(500),ANALYZING(100);
+    TRAINING(2000),ANALYZING(100);
 
     int value;
 
