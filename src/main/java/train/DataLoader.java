@@ -6,6 +6,7 @@ import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Scanner;
 import java.util.Set;
+
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -14,8 +15,8 @@ public class DataLoader {
     private static final Logger LOGGER = Logger.getLogger(DataLoader.class.getName());
     private static Set<Tweet> tweetSet;
     private static long idCounter = 0;
-    private File fileNegative = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\negative-1000first.csv");
-    private File filePositive = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\positive-1000first.csv");
+    private File fileNegative = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\negative-general.csv");
+    private File filePositive = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\positive-general.csv");
 
     private File stopFile = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\stopwords.txt");
 
@@ -38,7 +39,8 @@ public class DataLoader {
 
         StringBuilder stringBuilder = new StringBuilder();
         assert sc != null;
-        while (sc.hasNextLine()) {
+        int i=0;
+        while (sc.hasNextLine()&& i<10000) {
             stringBuilder.setLength(0);
             stringBuilder.append(sc.nextLine());
             while (!stringBuilder.toString().endsWith("\";") && sc.hasNextLine()) {
@@ -50,6 +52,7 @@ public class DataLoader {
             tweet.setTweetType(type);
             result.add(tweet);
             LOGGER.log(Level.INFO,type.toString()+" READ TWEET " + tweet.toString());
+            i++;
         }
         return result;
     }

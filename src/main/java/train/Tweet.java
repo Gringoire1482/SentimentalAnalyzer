@@ -41,7 +41,9 @@ public class Tweet {
 
     public void setTokenized(String tokenized) {
         StringBuilder stringBuilder = new StringBuilder();
-        tokenized=tokenized.replaceAll("ё","е").replaceAll("й","и");
+        // tokenized=tokenized.replaceAll("ё","е").replaceAll("й","и");
+        //content=content.replaceAll("ё","е").replaceAll("й","и");
+       tokenized =  tokenized.replaceAll("(?i)([а-яА-ЯёЁ])\\1{1,}","$1");
         String[] tokens = tokenized.split(" ");
         for (int i = 0; i < tokens.length - 1; i++) {
             if ((tokens[i].equals("не") || tokens[i].equals("очень")) && tokens[i + 1].length() > 3) {

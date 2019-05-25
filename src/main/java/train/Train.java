@@ -1,10 +1,7 @@
 package train;
 
 import java.io.IOException;
-import java.util.Arrays;
-import java.util.LinkedHashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.LogManager;
 import java.util.logging.Logger;
@@ -19,6 +16,7 @@ public class Train {
     private static final DataLoader dataLoader = new DataLoader();
 
     public static void main(String[] args) {
+        System.out.println(new Date());
 
         try {
             LogManager.getLogManager().readConfiguration(
@@ -48,10 +46,9 @@ public class Train {
        long before = System.currentTimeMillis();
         Set<String> tokens = new LinkedHashSet<>();
         data.stream().map(Tweet::getTokenList).forEach(tokens::addAll);
-        tokens= tokens.stream().filter(a->a.trim().length()>2&&!a.isEmpty()&&!a.contains(" ")).collect(Collectors.toSet());
+        tokens= tokens.stream().filter(a->a.trim().length()>2&&!a.contains(" ")).collect(Collectors.toCollection(LinkedHashSet::new));
         System.out.println(System.currentTimeMillis()-before);
         System.out.println(tokens.size());
-
 
 //  int matches=0;
 //        for (String token: soset){
@@ -61,23 +58,23 @@ public class Train {
 //        System.out.println(matches);
 
 //        Set<String> aa = data.stream().map(Tweet::getTokenList).map(List::toArray).collect(Collectors.toCollection(()->new LinkedHashSet<String>()));
-        Set<Token> tokenSet = tokens.stream().map(Token::new).collect(Collectors.toSet());
+        Set<Token> tokenSet = tokens.stream().map(Token::new).collect(Collectors.toCollection(LinkedHashSet::new));
         LOGGER.log(Level.INFO,"GOT TOKENS");
 
         Tokenizer tokenizer= new Tokenizer();
         tokenSet= tokenizer.processTokens(tokenSet,data);
         ModelGenerator modelGenerator= new ModelGenerator();
         modelGenerator.buildProbabilityModelMatrix(tokenSet,data);
-
+        System.out.println(new Date());
 
 
     }
 
     private static Tweet preprocess(Tweet tweet) {
 
-        LOGGER.log(Level.INFO,"start preprocessing  of " + tweet.getContent() );
+        //LOGGER.log(Level.INFO,"start preprocessing  of " + tweet.getContent() );
         String content = tweet.getContent();
-        content= content.replaceAll("(;\")|(\";)","");//.replaceAll("ё","е").replaceAll("й","и");
+        content= content.replaceAll("(;\")|(\";)","");
         String[] array = content.split(" ");
         StringBuilder stringBuilder = new StringBuilder();
         for (String stringContent : array) {
@@ -86,7 +83,7 @@ public class Train {
             }
         }
        tweet.setContent(stringBuilder.toString());
-        LOGGER.log(Level.INFO,"Preprocess result " + stringBuilder.toString());
+        //LOGGER.log(Level.INFO,"Preprocess result " + stringBuilder.toString());
         return tweet;
 
     }

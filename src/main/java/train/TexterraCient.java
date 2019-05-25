@@ -7,12 +7,14 @@ import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.util.EntityUtils;
 import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.IOException;
 import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.stream.Collectors;
 
 public class TexterraCient {
     private static final Logger LOGGER = Logger.getLogger(TexterraCient.class.getName());
@@ -22,6 +24,7 @@ public class TexterraCient {
             "?targetType=lemma&apikey="+API_KEY;
 
     public Set<Tweet> lemmatize(Set<Tweet> tweetSet, BatchSize batchSize) {
+        tweetSet=tweetSet.stream().filter(a->!a.getContent().trim().isEmpty()).collect(Collectors.toCollection(LinkedHashSet::new));
         Set<Tweet> lemmatizedSet = new LinkedHashSet<>();
         int partitionCount = (tweetSet.size() / batchSize.value)+1;
         List<Set<Tweet>> sets = new LinkedList<>();
@@ -48,7 +51,9 @@ public class TexterraCient {
                 LOGGER.log(Level.INFO,"Request Send"+ " "+ sets.indexOf(tweetSets));
                 response = client.execute(httpPost);
                 LOGGER.log(Level.INFO,"GET RESPONSE" + " "+ sets.indexOf(tweetSets));
-                lemmatizedSet.addAll(parseJSON(tweetSets, new JSONArray(EntityUtils.toString(response.getEntity()))));
+                String resp=EntityUtils.toString(response.getEntity());
+                System.out.println(resp);
+                lemmatizedSet.addAll(parseJSON(tweetSets, new JSONArray(resp)));
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -63,7 +68,13 @@ public class TexterraCient {
         // Iterator<Tweet> tweetIterator = tweetSet.iterator();
         int i = 0;
         for (Tweet tweet: tweetSet){
-            JSONArray lemma = responseJSON.getJSONObject(i).getJSONObject("annotations").getJSONArray("lemma");
+            JSONArray lemma=null;
+            try{ lemma = responseJSON.getJSONObject(i).getJSONObject("annotations").getJSONArray("lemma");
+            }catch (JSONException e){
+                e.printStackTrace();
+                System.out.println(responseJSON.getJSONObject(i).getJSONObject("annotations").toString(4));
+            }
+           // JSONArray lemma = responseJSON.getJSONObject(i).getJSONObject("annotations").getJSONArray("lemma");
             StringBuilder stringBuilder = new StringBuilder();
             for (int j = 0; j < lemma.length(); j++) {
                 stringBuilder.append(lemma.getJSONObject(j).getString("value")).append(" ");
@@ -91,9 +102,8 @@ public class TexterraCient {
 
     private JSONArray buildJSON(Set<Tweet> tweetSet) {
         JSONArray jsonArray = new JSONArray();
-        for (Tweet tweet : tweetSet) {
+        for (Tweet tweet : tweetSet)
             jsonArray.put(new JSONObject().put("text", tweet.getContent()));
-        }
         return jsonArray;
     }
 
