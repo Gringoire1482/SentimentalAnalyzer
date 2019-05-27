@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
 public class TexterraCient {
     private static final Logger LOGGER = Logger.getLogger(TexterraCient.class.getName());
 
-    private static final String API_KEY = "4d1841f74d570d730ec732ee0cd9726d4dd32b31";
+    private static final String API_KEY = "eb7412e251e7ca28097f42c483c5371d06963f0a";
     private static final String URI = "https://api.ispras.ru/texterra/v1/nlp" +
             "?targetType=lemma&apikey="+API_KEY;
 

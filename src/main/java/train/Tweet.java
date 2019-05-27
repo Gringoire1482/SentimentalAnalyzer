@@ -8,6 +8,7 @@ public class Tweet {
     private String content;
     private String tokenized;
     private SentimentalType tweetType;
+    private  List<String> tokenList;
 
     @Override
     public String toString() {
@@ -45,14 +46,15 @@ public class Tweet {
         //content=content.replaceAll("ё","е").replaceAll("й","и");
        tokenized =  tokenized.replaceAll("(?i)([а-яА-ЯёЁ])\\1{1,}","$1");
         String[] tokens = tokenized.split(" ");
-        for (int i = 0; i < tokens.length - 1; i++) {
-            if ((tokens[i].equals("не") || tokens[i].equals("очень")) && tokens[i + 1].length() > 3) {
+        for (int i = 0; i < tokens.length; i++) {
+            if (i!=tokens.length-1&&(tokens[i].equals("не") || tokens[i].equals("очень")) && tokens[i + 1].length() > 3) {
                 stringBuilder.append(tokens[i]).append("_").append(tokens[++i]).append(" ");
             } else {
                 stringBuilder.append(tokens[i]).append(" ");
             }
 
         }
+        this.tokenList= Arrays.asList(stringBuilder.toString().split(" "));
         this.tokenized = stringBuilder.toString();
     }
 
@@ -64,7 +66,6 @@ public class Tweet {
         this.tweetType = tweetType;
     }
 
-    public List<String> getTokenList() {
-        return Arrays.asList(tokenized.split(" "));
+    public List<String> getTokenList() {return tokenList;
     }
 }

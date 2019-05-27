@@ -23,9 +23,9 @@ public class Tokenizer {
                             .filter(
                                     a -> a
                                             .getTweetType()
-                                            .equals(
+                                            ==
                                                     SentimentalType.NEGATIVE
-                                            )
+
                                             &&
                                             a
                                                     .getTokenList()
@@ -45,9 +45,9 @@ public class Tokenizer {
                                     .filter(
                                             a -> a
                                                     .getTweetType()
-                                                    .equals(
+                                                    ==
                                                             SentimentalType.POSITIVE
-                                                    )
+
                                                     &&
                                                     a
                                                             .getTokenList()
@@ -66,9 +66,9 @@ public class Tokenizer {
                                     .filter(
                                             a -> a
                                                     .getTweetType()
-                                                    .equals(
+                                                    ==
                                                             SentimentalType.NEGATIVE
-                                                    )
+
                                     )
                                     .mapToLong(
                                             a -> a
@@ -93,9 +93,9 @@ public class Tokenizer {
                                     .filter(
                                             a -> a
                                                     .getTweetType()
-                                                    .equals(
+                                                    ==
                                                             SentimentalType.POSITIVE
-                                                    )
+
                                     )
                                     .mapToLong(
                                             a -> a
