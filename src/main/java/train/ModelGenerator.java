@@ -4,11 +4,11 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Date;
 import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import static java.lang.System.out;
 
 public class ModelGenerator {
 
@@ -19,6 +19,7 @@ public class ModelGenerator {
 
 
     public void buildProbabilityModelMatrix(Set<Token> tokenSet, Set<Tweet> tweetSet) {
+        System.out.println("Matrix building " + new Date());
         long documentCount = tweetSet.size();
         long tokenCount = tokenSet.size();
         long negativeDocuments = tweetSet.stream().filter(a -> a.getTweetType().equals(SentimentalType.NEGATIVE)).count();
@@ -33,6 +34,7 @@ public class ModelGenerator {
             token.setMultinominalAposterioriNegative((token.getMultinominalParametrs().getNegativeDocumentTokensCount() + SMOOTHING) / (tokensCountNegativeDocuments + tokenCount * SMOOTHING));
             token.setMultinominalAposterioriPositive((token.getMultinominalParametrs().getPositiveDocumentTokensCount() + SMOOTHING) / (tokensCountPositiveDocuments + tokenCount * SMOOTHING));
         }
+        System.out.println("Matrix writing " + new Date());
         writeTofiles(tokenSet);
 
     }

@@ -1,0 +1,1974 @@
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN мичь
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN облысель
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN romance
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN подпевая
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN часовый
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN всегдать
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN coreutils
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN saints
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN row
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN third
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN onlive
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN торкнуло
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN инфинит
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN дорме
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN угю
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN торжествено
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN дрыхивать
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN повторяю
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN чикобар
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN вечеринкаpaparazzi
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN чико
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN галюна
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN психологий
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN бытие
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN пальмовый
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN ветвь
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN очень_насыщеный
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN мутант
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN возрождать
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN лысый
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN вечернем
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN молот
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN эльфов
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN разрушителй
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN читаури
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN кент
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN тожн
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN киевстарё
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN пополнить
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN нуд
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN нра
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN драйво
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN вась
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN заинтересовываться
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN стратегический
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN укатить
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN верваться
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN сёл
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN читаювзаимно
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN rufollowback
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN скрашивать
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN высококвалифицированый
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN юрист
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN аватан
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN грызу
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN погружать
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN видикий
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN пробиваться
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN дальневосточный
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN ивановский
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN великийгэтсби
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN слабо
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN greatgatsby
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN finished
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN misfits
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN supernatural
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN знали
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN обратка
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN драгоценый
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN транспорант
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN отцовый
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN устояться
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN клан
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN дауровой
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:56 PM train.Tokenizer processTokens
+INFO: TOKEN маринский
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN людмила
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN евгя
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN site
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN preferences
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN прокси
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN диму
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN невер
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN генрих
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN расположение
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN привлекательность
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN весы
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=2, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=2, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN попрыгать
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN вириваться
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN повним
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN можна
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN випетлять
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN тащать
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN препарат
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN личн
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN концовочка
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN красим
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN автответчик
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN автоистец
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN лабрадор
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN подуть
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN пылинок
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN сдуть
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=2, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN пылинка
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN нагать
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN зацеплять
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN табак
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN тютюн
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN укрый
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN бердянский
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN владике
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN найдёть
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN снайпер
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN релизнуть
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN называецо
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN жадность
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN прокрадываться
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN сметать
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN гривна
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN детально
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN расценка
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN какаречка
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN андрес
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN скоти
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN тренировать
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN капоперский
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN шюток
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN хохлятскоп
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN шарь
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN братя
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN уникум
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN креатив
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN красивейшно
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN цени
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN кикоть
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN deco
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN виходний
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN мегамозг
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN вст
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN попутать
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN матвев
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN боянистый
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN кед
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN ждуйка
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN картинкохост
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN пожайлуста
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN вкусненькто
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN отпусти
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN отгадывать
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN пофикшу
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN кристинка
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN солгать
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN глазка
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN спия
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN чирик
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN популярность
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN вотсап
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN зернистый
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN прозрение
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN тролит
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN винчестерай
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:57 PM train.Tokenizer processTokens
+INFO: TOKEN хуйло
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN помойный
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN шуруповерт
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN волосато
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN кэша
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN дружку
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN раскрасить
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN реперый
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN сочинять
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN прелставлять
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN анфоловить
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN анфоловинг
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN мэйби
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN мирэ
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN народот
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN покручивать
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN броня
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=2, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=2, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN могучий
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=2, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=2, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN зауважать
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN wifus
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN географи
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN вай
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=3, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN пьёть
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN получаю
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN личка
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=2, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=2, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN месвать
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN новочка
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN спатьспатьспать
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN пашёль
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN усталь
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN одиночку
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN бездатый
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN фотокореспондент
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN news
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN достаночно
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN папуля
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN выпехнуть
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN дурнов
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN догадываються
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN выгодно
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN раф
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN рафе
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN разозляться
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN педро
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN суперняшкиулыбашки
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN пофигизй
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN ✌️✌
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN нехуйделать
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN спамлю
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN инстраграма
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN наиавтобусе
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN вылетый
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN былот
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN евразия
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN пели
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN жень
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN колбасеть
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN ненька
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN янтарный
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN смылсь
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN коромысле
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN коромысл
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN планетарий
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN восторге
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN мегафоновский
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN покрытие
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN смоленск
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN либрусек
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN гумер
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN сабинка
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN садовница
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN неувереный
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN крупногабаритный
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN пянин
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN умей
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN жизненый
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=2, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=2, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN развалина
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN теплоходе
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN зачетно
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN калифорникейшн
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN охренительный
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN новорлеанский
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN бордель
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN ясноясно
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN опаздание
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN заслужено
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN радарад
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN бюст
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:58 PM train.Tokenizer processTokens
+INFO: TOKEN бауманский
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN капотня
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN пандакрю
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN сутер
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN леопардовый
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN плаще
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN очень_хотим
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN believemovie
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN поговаривать
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN яве
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN клозед
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN сорс
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN глыхать
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN перекресток
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN местами
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN гремлять
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN важное
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN thesz
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN кипелов
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN запиливать
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN хит
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=2, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=2, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN скащаться
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN отписалась
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN стабильный
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN вреднячать
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN худивать
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN курение
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN лешенька
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN утиный
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN плакала
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN адеквате
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN стд
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN съебал
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN роналд
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN обделать
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN двухглазый
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN котеночка
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=2, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN заица
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN комочка
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN очень_папа
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN невозможности
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN испания
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN голандия
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN снецдер
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN разьясняться
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN трахни
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN нармальнасть
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN поворачиваться
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN задом
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN измерить
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN мтнут
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN адоми
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN пяточек
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN выползть
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN развеяться
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN поветру
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN любимы
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN олсен
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN подъездна
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN молодечик
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN коса
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN черник
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN отчаяный
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN домохозяйка
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN девичий
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN претендовать
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN чудесность
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN уютность
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN специя
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN диабетот
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN клясться
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN ещеб
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN потолка
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN королев
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN проведёть
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN винять
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN дуракий
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN укреплять
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN пацык
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN брэдль
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN демпсь
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN ониев
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN англи
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN установиться
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN запиночки
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN обезбаливающий
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN милашесть
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:21:59 PM train.Tokenizer processTokens
+INFO: TOKEN торин
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN трандуила
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN недостойный
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN паук
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN кампания
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN литовец
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN надежде
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN выскачать
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN сольнике
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN кише
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN поем
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN пляшем
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN cool
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN forsage
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN conce
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN kishe
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN нецензурность
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN однолюб
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN хаотик
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN отчасти
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN жанра
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN пикапер
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN ути
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN ранг
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN месторождение
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN бестыжий
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN чекати
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN майстер
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN самої
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN сиротючки
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN подколоть
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN палять
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN матанчик
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN рубежка
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN цдо
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN догадливый
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN kiss
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN перой
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN мамули
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN пинокио
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN вырастить
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN капучино
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN бенш
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN ирынок
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN спбгу
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN чить
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN сетый
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN репер
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN валик
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN мудеть
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN касаться
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN квадрат
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN ильич
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN иксперт
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN супорт
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN казань
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN штуковина
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN тушёный
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN печенью
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN вкусний
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN травиан
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN интересном
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN сервере
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN авраг
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN түвшинбаяр
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN бндма
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN баярлала
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN удахгүй
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN аврагын
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN бичлэгийг
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN орулах
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN болно
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN байгарай
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN найкращать
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN лакост
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN живанши
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN маскитол
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN беспокойно
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN женственость
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN незрелый
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN неуравновешеный
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN sounds
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN coca
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN cola
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN вредная
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN часый
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN подъём
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:00 PM train.Tokenizer processTokens
+INFO: TOKEN репин
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN осмеляться
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN колись
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN подробный
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN высказать
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN злорадный
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN ебальник
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN допёрть
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN дыба
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN нічо
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN цея
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN головні
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN актори
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN гарні
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN потключать
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN рюшечка
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN семёрка
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN залетановиться
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN явление
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN топить
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN испаней
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN выходка
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN паласачку
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN кепарик
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN клетачка
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN непамещаеца
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN лава
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN барсетачку
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN клевой
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN канать
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN фринж
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN засмущать
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN medvezhonokru
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN отсыпаться
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN окружающий
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN бейрд
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN ирвин
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN уэлш
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN маленькая
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN поворачивать
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN перенимать
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN спокух
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN ушко
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN status
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN корпус
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN лкаф
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN жан
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN глянуть
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN сиф
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN жталк
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN оный
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN секретй
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN целоваться
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN дурачиться
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN дебош
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN тоно
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN выражаться
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN каоре
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN убьвать
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN проценщица
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN очень_пригождаться
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN беруться
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN грачот
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN зимовать
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN здо
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN оровеный
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN посольстве
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN мэто
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN дэймон
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN краткость
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: TOKEN фототчет
+мая 26, 2019 10:22:01 PM train.Tokenizer processTokens
+INFO: PROCESSING RESULT BernoulliParameters{positiveDocumentWithToken=1, negativeDocumentWithToken=0} MultinominalParametrs{positiveDocumentTokensCount=1, negativeDocumentTokensCount=0}
+мая 26, 2019 10:22:01 PM train.ModelGenerator buildProbabilityModelMatrix
+INFO: BUILDING PARAMS  Document count : 14000 Token Count : 20592 negative Documents : 7000 positive Documents : 7000 token Base negative Documents : 47031 token Base positive Documents : 49057

@@ -1,6 +1,7 @@
 package train;
 
 import java.lang.management.GarbageCollectorMXBean;
+import java.util.Date;
 import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -9,6 +10,7 @@ public class Tokenizer {
     private static final Logger LOGGER = Logger.getLogger(Tokenizer.class.getName());
 
     public Set<Token> processTokens(Set<Token> tokenSet, Set<Tweet> tweetSet) {
+        System.out.println("Start Tokenizing"+ new Date());
         LOGGER.log(Level.INFO, "START TOKEN PROCESSING");
         for (Token token : tokenSet) {
             LOGGER.log(Level.INFO, "TOKEN " + token.getContent());
