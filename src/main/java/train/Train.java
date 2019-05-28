@@ -30,12 +30,13 @@ public class Train {
         LOGGER.log(Level.INFO,"Data Loaded");
         stopWords = dataLoader.loadStopWordsList();
         LOGGER.log(Level.INFO,"StopWords Loaded");
-         data.forEach(Train::preprocess);
+        data.forEach(Train::preprocess);
         TexterraCient texterraCient = new TexterraCient();
         data = texterraCient.lemmatize(data,BatchSize.TRAINING);
-        for (Tweet tweet: data){
-            System.out.println(tweet);
-        }
+//        for (Tweet tweet: data){
+//            System.out.println(tweet);
+//        }
+        System.out.println("Tweet set size"+ data.size());
 
 //        long before = System.currentTimeMillis();
 //       String s = data.stream().map(Tweet::getContent).collect(Collectors.joining(" "));

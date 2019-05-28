@@ -22,17 +22,17 @@ public class ModelGenerator {
         System.out.println("Matrix building " + new Date());
         long documentCount = tweetSet.size();
         long tokenCount = tokenSet.size();
-        long negativeDocuments = tweetSet.stream().filter(a -> a.getTweetType().equals(SentimentalType.NEGATIVE)).count();
-        long positiveDocuments = tweetSet.stream().filter(a -> a.getTweetType().equals(SentimentalType.POSITIVE)).count();
-        long tokensCountNegativeDocuments = tweetSet.stream().filter(a->a.getTweetType().equals(SentimentalType.NEGATIVE)).mapToLong(a->a.getTokenList().size()).sum();
-        long tokensCountPositiveDocuments = tweetSet.stream().filter(a->a.getTweetType().equals(SentimentalType.POSITIVE)).mapToLong(a->a.getTokenList().size()).sum();
+        double negativeDocuments = tweetSet.stream().filter(a -> a.getTweetType().equals(SentimentalType.NEGATIVE)).count();
+        double positiveDocuments = tweetSet.stream().filter(a -> a.getTweetType().equals(SentimentalType.POSITIVE)).count();
+        double tokensCountNegativeDocuments = tweetSet.stream().filter(a -> a.getTweetType().equals(SentimentalType.NEGATIVE)).mapToLong(a -> a.getTokenList().size()).sum();
+        double tokensCountPositiveDocuments = tweetSet.stream().filter(a -> a.getTweetType().equals(SentimentalType.POSITIVE)).mapToLong(a -> a.getTokenList().size()).sum();
         LOGGER.log(Level.INFO, "BUILDING PARAMS " + " Document count : " + documentCount + " Token Count : " + tokenCount + " negative Documents : " + negativeDocuments + " positive Documents : " + positiveDocuments + " token Base negative Documents : " + tokensCountNegativeDocuments + " token Base positive Documents : " + tokensCountPositiveDocuments);
         for (Token token : tokenSet) {
             // LOGGER.log(Level.INFO,token.getBernoulliParameters().getNegativeDocumentWithToken()  );
-            token.setBernoulliAposterioriNegative((token.getBernoulliParameters().getNegativeDocumentWithToken() + SMOOTHING) / (negativeDocuments + documentCount * SMOOTHING));
-            token.setBernoulliAposterioriPositive((token.getBernoulliParameters().getPositiveDocumentWithToken() + SMOOTHING) / (positiveDocuments + documentCount * SMOOTHING));
-            token.setMultinominalAposterioriNegative((token.getMultinominalParametrs().getNegativeDocumentTokensCount() + SMOOTHING) / (tokensCountNegativeDocuments + tokenCount * SMOOTHING));
-            token.setMultinominalAposterioriPositive((token.getMultinominalParametrs().getPositiveDocumentTokensCount() + SMOOTHING) / (tokensCountPositiveDocuments + tokenCount * SMOOTHING));
+            token.setBernoulliAposterioriNegative(token.getBernoulliParameters().getNegativeDocumentWithToken() / negativeDocuments);
+            token.setBernoulliAposterioriPositive(token.getBernoulliParameters().getPositiveDocumentWithToken() / positiveDocuments);
+            token.setMultinominalAposterioriNegative(token.getMultinominalParametrs().getNegativeDocumentTokensCount() / tokensCountNegativeDocuments);
+            token.setMultinominalAposterioriPositive(token.getMultinominalParametrs().getPositiveDocumentTokensCount() / tokensCountPositiveDocuments);
         }
         System.out.println("Matrix writing " + new Date());
         writeTofiles(tokenSet);
@@ -41,8 +41,8 @@ public class ModelGenerator {
 
     private static void writeTofiles(Set<Token> tokenSet) {
         if (bernoulliModel.exists() || multinominalModel.exists()) {
-         bernoulliModel.delete();
-         multinominalModel.delete();
+            bernoulliModel.delete();
+            multinominalModel.delete();
         }
 
 

@@ -18,10 +18,11 @@ import java.util.stream.Collectors;
 
 public class TexterraCient {
     private static final Logger LOGGER = Logger.getLogger(TexterraCient.class.getName());
-
+    private static int   key_Counter =0;
     private static final String API_KEY = "eb7412e251e7ca28097f42c483c5371d06963f0a";
+    private static final String API_KEY2 = "4d1841f74d570d730ec732ee0cd9726d4dd32b31";
     private static final String URI = "https://api.ispras.ru/texterra/v1/nlp" +
-            "?targetType=lemma&apikey="+API_KEY;
+            "?targetType=lemma&apikey=";
 
     public Set<Tweet> lemmatize(Set<Tweet> tweetSet, BatchSize batchSize) {
         tweetSet=tweetSet.stream().filter(a->!a.getContent().trim().isEmpty()).collect(Collectors.toCollection(LinkedHashSet::new));
@@ -42,7 +43,8 @@ public class TexterraCient {
             JSONArray requestJSON = buildJSON(tweetSets);
             LOGGER.log(Level.INFO,"BATCH CREATING WITH ELEMENTS " +requestJSON.length()+ " "+ sets.indexOf(tweetSets));
             HttpClient client = HttpClientBuilder.create().build();
-            HttpPost httpPost = new HttpPost(URI);
+            HttpPost httpPost = new HttpPost(URI + (key_Counter%2==0? API_KEY:API_KEY2));
+           // System.out.println(key_Counter%2==0? API_KEY:API_KEY2);
             httpPost.setEntity(new StringEntity(requestJSON.toString(), "UTF-8"));
             setHeaders(httpPost);
             HttpResponse response = null;
@@ -50,9 +52,10 @@ public class TexterraCient {
 
                 LOGGER.log(Level.INFO,"Request Send"+ " "+ sets.indexOf(tweetSets));
                 response = client.execute(httpPost);
+                key_Counter++;
                 LOGGER.log(Level.INFO,"GET RESPONSE" + " "+ sets.indexOf(tweetSets));
                 String resp=EntityUtils.toString(response.getEntity());
-                System.out.println(resp);
+                //System.out.println(resp);
                 lemmatizedSet.addAll(parseJSON(tweetSets, new JSONArray(resp)));
             } catch (IOException e) {
                 e.printStackTrace();

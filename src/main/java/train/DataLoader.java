@@ -40,7 +40,7 @@ public class DataLoader {
         StringBuilder stringBuilder = new StringBuilder();
         assert sc != null;
         int i=0;
-        while (sc.hasNextLine()&& i<20000) {
+        while (sc.hasNextLine()) {
             stringBuilder.setLength(0);
             stringBuilder.append(sc.nextLine());
             while (!stringBuilder.toString().endsWith("\";") && sc.hasNextLine()) {
