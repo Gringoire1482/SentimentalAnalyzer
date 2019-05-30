@@ -67,7 +67,7 @@ public class Train {
         ModelGenerator modelGenerator= new ModelGenerator();
         modelGenerator.buildProbabilityModelMatrix(tokenSet,data);
         System.out.println(new Date());
-
+        LOGGER.log(Level.INFO,"SO DONE");
 
     }
 
@@ -76,6 +76,7 @@ public class Train {
         //LOGGER.log(Level.INFO,"start preprocessing  of " + tweet.getContent() );
         String content = tweet.getContent();
         content= content.replaceAll("(;\")|(\";)","");
+       //  content= content.replaceAll("\\W","");
         String[] array = content.split(" ");
         StringBuilder stringBuilder = new StringBuilder();
         for (String stringContent : array) {
