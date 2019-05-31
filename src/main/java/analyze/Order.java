@@ -6,7 +6,7 @@ public class Order {
 
     public Order(String content) {
         this.content = content;
-        verdict=
+
     }
 
     public String getContent() {

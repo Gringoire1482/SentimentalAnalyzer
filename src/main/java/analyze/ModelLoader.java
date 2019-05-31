@@ -1,14 +1,12 @@
 package analyze;
 
 import train.Token;
-import train.Tweet;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.LinkedHashSet;
 import java.util.Scanner;
 import java.util.Set;
-import java.util.logging.Level;
 
 public class ModelLoader {
     private static File beurnoulliLaplas = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\trained\\BernoulliModelLp.txt");
@@ -17,22 +15,44 @@ public class ModelLoader {
     private static File multinominalLids = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\trained\\MultinominalModel.txt");
     private static double negativeApriori;
     private static double positiveApriori;
-    private static double nullNegativeBeurnoulliTokenLaplas;
-    private static double nullPositiveBeurnoulliTokenLaplas;
-    private static double nullNegativeMultinominalTokenLaplas;
-    private static double nullPositiveMultinominalTokenLaplas;
-    private static double nullNegativeBeurnoulliTokenLids;
-    private static double nullPositiveBeurnoulliTokenLids;
-    private static double nullNegativeMultinominalTokenLids;
-    private static double nullPositiveMultinominalTokenLids;
+    private static double nullNegativeBeurnoulliToken;
+    private static double nullPositiveBeurnoulliToken;
+    private static double nullNegativeMultinominalToken;
+    private static double nullPositiveMultinominalToken;
 
-    public static Set<Token> loadLaplas() {
+
+    public static double getNegativeApriori() {
+        return negativeApriori;
+    }
+
+    public static double getPositiveApriori() {
+        return positiveApriori;
+    }
+
+    public static double getNullNegativeBeurnoulliToken() {
+        return nullNegativeBeurnoulliToken;
+    }
+
+    public static double getNullPositiveBeurnoulliToken() {
+        return nullPositiveBeurnoulliToken;
+    }
+
+    public static double getNullNegativeMultinominalToken() {
+        return nullNegativeMultinominalToken;
+    }
+
+    public static double getNullPositiveMultinominalToken() {
+        return nullPositiveMultinominalToken;
+    }
+
+
+    public static Set<Token> loadModel(String model) {
         Set<Token> result = new LinkedHashSet<>();
         Scanner scBeur = null;
         Scanner scMulti = null;
         try {
-            scBeur = new Scanner(beurnoulliLaplas, "utf8");
-            scMulti = new Scanner(multinominalLaplas, "utf8");
+            scBeur = new Scanner(model.equals("lids")?beurnoulliLids:beurnoulliLaplas, "utf8");
+            scMulti = new Scanner(model.equals("lids")?multinominalLids:multinominalLaplas, "utf8");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
             // LOGGER.log(Level.WARNING,e.toString());
@@ -41,10 +61,10 @@ public class ModelLoader {
         String[] paramsM = scMulti.nextLine().split(",");
         negativeApriori = Double.valueOf(paramsB[0]);
         positiveApriori = Double.valueOf(paramsB[1]);
-        nullNegativeBeurnoulliTokenLaplas = Double.valueOf(paramsB[2]);
-        nullPositiveBeurnoulliTokenLaplas = Double.valueOf(paramsB[3]);
-        nullNegativeMultinominalTokenLaplas = Double.valueOf(paramsM[2]);
-        nullPositiveMultinominalTokenLaplas = Double.valueOf(paramsB[3]);
+        nullNegativeBeurnoulliToken = Double.valueOf(paramsB[2]);
+        nullPositiveBeurnoulliToken = Double.valueOf(paramsB[3]);
+        nullNegativeMultinominalToken = Double.valueOf(paramsM[2]);
+        nullPositiveMultinominalToken = Double.valueOf(paramsB[3]);
         StringBuilder stringBuilder = new StringBuilder();
         assert scBeur != null;
         while (scBeur.hasNextLine() && scMulti.hasNextLine()) {
@@ -63,40 +83,5 @@ public class ModelLoader {
         return result;
     }
 
-    public static Set<Token> loadLids() {
-        Set<Token> result = new LinkedHashSet<>();
-        Scanner scBeur = null;
-        Scanner scMulti = null;
-        try {
-            scBeur = new Scanner(beurnoulliLids, "utf8");
-            scMulti = new Scanner(multinominalLids, "utf8");
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-            // LOGGER.log(Level.WARNING,e.toString());
-        }
-        String[] paramsB = scBeur.nextLine().split(",");
-        String[] paramsM = scMulti.nextLine().split(",");
-        //negativeApriori = Double.valueOf(paramsB[0]);
-        //positiveApriori = Double.valueOf(paramsB[1]);
-        nullNegativeBeurnoulliTokenLids = Double.valueOf(paramsB[2]);
-        nullPositiveBeurnoulliTokenLids = Double.valueOf(paramsB[3]);
-        nullNegativeMultinominalTokenLids = Double.valueOf(paramsM[2]);
-        nullPositiveMultinominalTokenLids = Double.valueOf(paramsB[3]);
-        StringBuilder stringBuilder = new StringBuilder();
-        assert scBeur != null;
-        while (scBeur.hasNextLine() && scMulti.hasNextLine()) {
-            String[] tokenInfoBeurnoulli = scBeur.nextLine().split(",");
-            String[] tokenInfoMultinominal = scMulti.nextLine().split(",");
-            Token token = new Token(tokenInfoBeurnoulli[0]);
-            token.setBernoulliAposterioriPositive(Double.valueOf(tokenInfoBeurnoulli[1]));
-            token.setBernoulliAposterioriNegative(Double.valueOf(tokenInfoBeurnoulli[2]));
-            token.setMultinominalAposterioriPositive(Double.valueOf(tokenInfoMultinominal[1]));
-            token.setMultinominalAposterioriNegative(Double.valueOf(tokenInfoMultinominal[2]));
-            result.add(token);
 
-
-            //LOGGER.log(Level.INFO,type.toString()+" READ TWEET " + tweet.toString());
-        }
-        return result;
-    }
 }

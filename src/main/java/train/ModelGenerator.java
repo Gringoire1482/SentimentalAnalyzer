@@ -17,12 +17,12 @@ public class ModelGenerator {
 
     private static final File bernoulliModel = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\trained\\BernoulliModel.txt");
     private static final File multinominalModel = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\trained\\MultinominalModel.txt");
-    static double  nullNegativeBeurnoulliToken ;
-    static double  nullPositiveBeurnoulliToken ;
-    static double  nullNegativeMultinominalToken ;
-    static double  nullPositiveMultinominalToken ;
-    static double  negativeApriori;
-    static double  positiveApriori;
+    private static double nullNegativeBeurnoulliToken;
+    private static double nullPositiveBeurnoulliToken;
+    private static double nullNegativeMultinominalToken;
+    private static double nullPositiveMultinominalToken;
+    private static double negativeApriori;
+    private static double positiveApriori;
 
     public void buildProbabilityModelMatrix(Set<Token> tokenSet, Set<Tweet> tweetSet) {
         System.out.println("Matrix building " + new Date());
@@ -36,19 +36,19 @@ public class ModelGenerator {
         for (Token token : tokenSet) {
             // LOGGER.log(Level.INFO,token.getBernoulliParameters().getNegativeDocumentWithToken()  );
             token.setBernoulliAposterioriNegative((token.getBernoulliParameters().getNegativeDocumentWithToken() + SMOOTHING) / (negativeDocuments + documentCount * SMOOTHING));
-            token.setBernoulliAposterioriPositive((token.getBernoulliParameters().getPositiveDocumentWithToken()  + SMOOTHING) / (positiveDocuments + documentCount * SMOOTHING));
-            token.setMultinominalAposterioriNegative((token.getMultinominalParametrs().getNegativeDocumentTokensCount()+ SMOOTHING) / (tokensCountNegativeDocuments + tokenCount * SMOOTHING));
+            token.setBernoulliAposterioriPositive((token.getBernoulliParameters().getPositiveDocumentWithToken() + SMOOTHING) / (positiveDocuments + documentCount * SMOOTHING));
+            token.setMultinominalAposterioriNegative((token.getMultinominalParametrs().getNegativeDocumentTokensCount() + SMOOTHING) / (tokensCountNegativeDocuments + tokenCount * SMOOTHING));
             token.setMultinominalAposterioriPositive((token.getMultinominalParametrs().getPositiveDocumentTokensCount() + SMOOTHING) / (tokensCountPositiveDocuments + tokenCount * SMOOTHING));
         }
-        nullNegativeBeurnoulliToken=(SMOOTHING+0)/(negativeDocuments + documentCount * SMOOTHING);
-        nullPositiveBeurnoulliToken=(SMOOTHING+0) /(positiveDocuments + documentCount * SMOOTHING);
-        nullNegativeMultinominalToken=(SMOOTHING+0) / (tokensCountNegativeDocuments + tokenCount * SMOOTHING);
-        nullPositiveMultinominalToken=(SMOOTHING+0) / (tokensCountPositiveDocuments + tokenCount * SMOOTHING);
-        negativeApriori= negativeDocuments/documentCount;
-        positiveApriori= positiveDocuments/documentCount;
+        nullNegativeBeurnoulliToken = (SMOOTHING + 0) / (negativeDocuments + documentCount * SMOOTHING);
+        nullPositiveBeurnoulliToken = (SMOOTHING + 0) / (positiveDocuments + documentCount * SMOOTHING);
+        nullNegativeMultinominalToken = (SMOOTHING + 0) / (tokensCountNegativeDocuments + tokenCount * SMOOTHING);
+        nullPositiveMultinominalToken = (SMOOTHING + 0) / (tokensCountPositiveDocuments + tokenCount * SMOOTHING);
+        negativeApriori = negativeDocuments / documentCount;
+        positiveApriori = positiveDocuments / documentCount;
         System.out.println("Matrix writing " + new Date());
-        tokenSet.stream().filter(a->a.getMultinominalParametrs().getNegativeDocumentTokensCount()<a.getMultinominalParametrs().getPositiveDocumentTokensCount()
-                && a.getMultinominalAposterioriPositive()<a.getMultinominalAposterioriNegative()).forEach(System.out::println);
+        tokenSet.stream().filter(a -> a.getMultinominalParametrs().getNegativeDocumentTokensCount() < a.getMultinominalParametrs().getPositiveDocumentTokensCount()
+                && a.getMultinominalAposterioriPositive() < a.getMultinominalAposterioriNegative()).forEach(System.out::println);
         //writeTofiles(tokenSet);
 
     }
@@ -71,8 +71,8 @@ public class ModelGenerator {
             e.printStackTrace();
         }
         try {
-            bernoulli.write(negativeApriori + "," + positiveApriori + "," + nullNegativeBeurnoulliToken +","+ nullPositiveBeurnoulliToken);
-            multinominal.write(negativeApriori + "," + positiveApriori + "," + nullNegativeMultinominalToken+","+nullPositiveMultinominalToken);
+            bernoulli.write(negativeApriori + "," + positiveApriori + "," + nullNegativeBeurnoulliToken + "," + nullPositiveBeurnoulliToken);
+            multinominal.write(negativeApriori + "," + positiveApriori + "," + nullNegativeMultinominalToken + "," + nullPositiveMultinominalToken);
             bernoulli.newLine();
             multinominal.newLine();
         } catch (IOException e) {

@@ -15,12 +15,11 @@ public class Token {
 
     @Override
     public String toString() {
-        return "Token{" +
-                "content='" + content + '\'' +
-                ", bernoulliParameters=" + bernoulliParameters +
-                ", multinominalParametrs=" + multinominalParametrs +
-                ", isPresentInPositiveDocuments=" + isPresentInPositiveDocuments +
-                ", isPresentInNegativeDocuments=" + isPresentInNegativeDocuments +
+        return "Token{ " + content +
+                " bernoulliAposterioriNegative=" + bernoulliAposterioriNegative +
+                ", bernoulliAposterioriPositive=" + bernoulliAposterioriPositive +
+                ", multinominalAposterioriNegative=" + multinominalAposterioriNegative +
+                ", multinominalAposterioriPositive=" + multinominalAposterioriPositive +
                 '}';
     }
 
