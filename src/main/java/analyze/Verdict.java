@@ -13,13 +13,13 @@ public class Verdict {
         this.multinominalNegativeScore = multinominalNegativeScore;
         this.multinominalPositiveScore = multinominalPositiveScore;
         if (Math.max(beurnoulliNegativeScore, beurnoulliPositiveScore) == beurnoulliNegativeScore) {
-            beurnoulliRezolution = TextClass.SPAM;
-        }else  beurnoulliRezolution=TextClass.HAM;
+            beurnoulliVerdict = SentimentalType.NEGATIVE;
+        }else  beurnoulliVerdict =SentimentalType.POSITIVE;
         if (Math.max(multinominalNegativeScore, multinominalPositiveScore) == multinominalNegativeScore) {
-            mulltinominalRezolution = TextClass.SPAM;
-        } else mulltinominalRezolution= TextClass.HAM;
+            mulltinominalVerdict = SentimentalType.NEGATIVE;
+        } else mulltinominalVerdict = SentimentalType.POSITIVE;
     }
-    SentimentalType beurnoulliRezolution;
-    SentimentalType mulltinominalRezolution;
+    SentimentalType beurnoulliVerdict;
+    SentimentalType mulltinominalVerdict;
 
 }

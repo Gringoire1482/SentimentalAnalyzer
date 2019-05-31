@@ -110,10 +110,46 @@ public class TexterraCient {
         return jsonArray;
     }
 
-    private void setHeaders(HttpPost httpPost) {
+    private  static void setHeaders(HttpPost httpPost) {
         httpPost.setHeader("Accept", "application/json; charset=utf-8");
         httpPost.setHeader("Content-type", "application/json; charset=utf-8");
     }
+       public static List<String> lemmatizeOrderMessageString(String message){
+        List<String> tokenizedMessage= new LinkedList<>();
+           JSONArray jsonArray = new JSONArray();
+           jsonArray.put(new JSONObject().put("text", message));
+           HttpClient client = HttpClientBuilder.create().build();
+           HttpPost httpPost = new HttpPost(URI + (key_Counter%2==0? API_KEY:API_KEY2));
+           httpPost.setEntity(new StringEntity(jsonArray.toString(), "UTF-8"));
+           setHeaders(httpPost);
+           JSONArray responseJSON=null;
+           HttpResponse response = null;
 
+           try {
+
+               //LOGGER.log(Level.INFO,"Request Send"+ " "+ sets.indexOf(tweetSets));
+               response = client.execute(httpPost);
+               //key_Counter++;
+               //LOGGER.log(Level.INFO,"GET RESPONSE" + " "+ sets.indexOf(tweetSets));
+               String resp=EntityUtils.toString(response.getEntity());
+                responseJSON= new JSONArray(resp);
+               //System.out.println(resp);
+               //lemmatizedSet.addAll(parseJSON(tweetSets, new JSONArray(resp)));
+           } catch (IOException e) {
+               e.printStackTrace();
+           }
+           JSONArray lemma=null;
+           try{ lemma = responseJSON.getJSONObject(0).getJSONObject("annotations").getJSONArray("lemma");
+           }catch (JSONException e){
+               e.printStackTrace();
+               System.out.println(responseJSON.getJSONObject(0).getJSONObject("annotations").toString(4));
+           }
+           // JSONArray lemma = responseJSON.getJSONObject(i).getJSONObject("annotations").getJSONArray("lemma");
+           StringBuilder stringBuilder = new StringBuilder();
+           for (int j = 0; j < lemma.length(); j++) {
+               tokenizedMessage.add(lemma.getJSONObject(j).getString("value"));
+           }
+            return  tokenizedMessage;
+       }
 
 }
