@@ -147,8 +147,10 @@ public class TexterraCient {
            // JSONArray lemma = responseJSON.getJSONObject(i).getJSONObject("annotations").getJSONArray("lemma");
            StringBuilder stringBuilder = new StringBuilder();
            for (int j = 0; j < lemma.length(); j++) {
+
                tokenizedMessage.add(lemma.getJSONObject(j).getString("value"));
            }
+
             return  tokenizedMessage;
        }
 

@@ -6,7 +6,7 @@ public class Order {
 
     public Order(String content) {
         this.content = content;
-
+        verdict= Analyzer.evaluate(content,"lapl");
     }
 
     public String getContent() {
@@ -24,4 +24,5 @@ public class Order {
     public void setVerdict(Verdict verdict) {
         this.verdict = verdict;
     }
+
 }

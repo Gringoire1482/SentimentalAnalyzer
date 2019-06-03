@@ -26,13 +26,11 @@ public class Verdict {
 
     @Override
     public String toString() {
-        return "Verdict{" +
-                "beurnoulliNegativeScore=" + beurnoulliNegativeScore +
-                ", beurnoulliPositiveScore=" + beurnoulliPositiveScore +
-                ", multinominalNegativeScore=" + multinominalNegativeScore +
-                ", multinominalPositiveScore=" + multinominalPositiveScore +
-                ", beurnoulliVerdict=" + beurnoulliVerdict +
-                ", mulltinominalVerdict=" + mulltinominalVerdict +
-                '}';
+        return "beurnoulliNegativeScore=" + beurnoulliNegativeScore +System.lineSeparator()+
+                ", beurnoulliPositiveScore=" + beurnoulliPositiveScore + System.lineSeparator()+
+                ", beurnoulliVerdict=" + beurnoulliVerdict + System.lineSeparator()+
+                ", multinominalNegativeScore=" + multinominalNegativeScore +System.lineSeparator()+
+                ", multinominalPositiveScore=" + multinominalPositiveScore + System.lineSeparator()+
+                ", mulltinominalVerdict=" + mulltinominalVerdict + System.lineSeparator();
     }
 }
