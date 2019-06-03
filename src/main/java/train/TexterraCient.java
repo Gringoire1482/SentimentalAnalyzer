@@ -119,7 +119,7 @@ public class TexterraCient {
            JSONArray jsonArray = new JSONArray();
            jsonArray.put(new JSONObject().put("text", message));
            HttpClient client = HttpClientBuilder.create().build();
-           HttpPost httpPost = new HttpPost(URI + (key_Counter%2==0? API_KEY:API_KEY2));
+           HttpPost httpPost = new HttpPost(URI + API_KEY2);
            httpPost.setEntity(new StringEntity(jsonArray.toString(), "UTF-8"));
            setHeaders(httpPost);
            JSONArray responseJSON=null;

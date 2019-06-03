@@ -71,7 +71,7 @@ public class Train {
 
     }
 
-    private static Tweet preprocess(Tweet tweet) {
+    public static Tweet preprocess(Tweet tweet) {
 
         //LOGGER.log(Level.INFO,"start preprocessing  of " + tweet.getContent() );
         String content = tweet.getContent();

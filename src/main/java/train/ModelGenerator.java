@@ -49,7 +49,7 @@ public class ModelGenerator {
         System.out.println("Matrix writing " + new Date());
         tokenSet.stream().filter(a -> a.getMultinominalParametrs().getNegativeDocumentTokensCount() < a.getMultinominalParametrs().getPositiveDocumentTokensCount()
                 && a.getMultinominalAposterioriPositive() < a.getMultinominalAposterioriNegative()).forEach(System.out::println);
-        //writeTofiles(tokenSet);
+        writeTofiles(tokenSet);
 
     }
 

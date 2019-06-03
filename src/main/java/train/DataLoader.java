@@ -16,6 +16,8 @@ public class DataLoader {
     private static Set<Tweet> tweetSet;
     private static long idCounter = 0;
     private File fileNegative = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\negative-general.csv");
+    private File testNegative = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\negative-general.csv");
+    private File testPositive = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\positive-test.csv");
     private File filePositive = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\positive-general.csv");
 
     private File stopFile = new File(new File("").getAbsoluteFile() + "\\src\\main\\resources\\static\\stopwords.txt");
@@ -24,6 +26,7 @@ public class DataLoader {
         tweetSet = new LinkedHashSet<>();
         tweetSet.addAll(trainLoad(fileNegative, SentimentalType.NEGATIVE));
         tweetSet.addAll(trainLoad(filePositive, SentimentalType.POSITIVE));
+       // tweetSet.addAll(trainLoad(testPositive, SentimentalType.POSITIVE));
         return tweetSet;
     }
 
@@ -40,7 +43,7 @@ public class DataLoader {
         StringBuilder stringBuilder = new StringBuilder();
         assert sc != null;
         int i=0;
-        while (sc.hasNextLine()&&i<2000) {
+        while (sc.hasNextLine()&&i<110000) {
             stringBuilder.setLength(0);
             stringBuilder.append(sc.nextLine());
             while (!stringBuilder.toString().endsWith("\";") && sc.hasNextLine()) {
@@ -54,6 +57,7 @@ public class DataLoader {
             LOGGER.log(Level.INFO,type.toString()+" READ TWEET " + tweet.toString());
             i++;
         }
+       // System.out.println("FINAL "+  );
         return result;
     }
 

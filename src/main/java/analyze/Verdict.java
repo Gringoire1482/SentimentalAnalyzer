@@ -24,6 +24,22 @@ public class Verdict {
     private SentimentalType beurnoulliVerdict;
     private SentimentalType mulltinominalVerdict;
 
+    public SentimentalType getBeurnoulliVerdict() {
+        return beurnoulliVerdict;
+    }
+
+    public void setBeurnoulliVerdict(SentimentalType beurnoulliVerdict) {
+        this.beurnoulliVerdict = beurnoulliVerdict;
+    }
+
+    public SentimentalType getMulltinominalVerdict() {
+        return mulltinominalVerdict;
+    }
+
+    public void setMulltinominalVerdict(SentimentalType mulltinominalVerdict) {
+        this.mulltinominalVerdict = mulltinominalVerdict;
+    }
+
     @Override
     public String toString() {
         return "beurnoulliNegativeScore=" + beurnoulliNegativeScore +System.lineSeparator()+
